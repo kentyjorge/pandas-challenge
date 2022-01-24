@@ -1,0 +1,3 @@
+1. ages 20-24 make the most purchases
+2. males make up a majority of the players and purchases
+3. purchases aren't dominated by a single player, but there are items that are purchased more that others
